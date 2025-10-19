@@ -18,4 +18,6 @@ ros2 run turtlesim turtlesim_node
 
 python3 autonomous_turtle_pkg/autonomous_turtle_pkg/autonomous_turtle.py
 
+Make sure this package is inside a ROS2 workspace (~/ros2_ws) and run the script from its folder.
+
 
